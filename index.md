@@ -24,7 +24,7 @@
    <div class="card"> 
     <div class="box"> 
      <div class="content"> 
- <div class="img"><img src="https://d.top4top.io/p_2059mc6d10.png" alt="" /></div>
+ <div class="img"><img src=" " alt="" /></div>
  <div class="content ">
    <h4>PINO BAGAS S </h4>
    <h5>WEB DEVELOPER</h5>
